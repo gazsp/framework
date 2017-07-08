@@ -4,7 +4,7 @@
   "keywords": ["lavender", "ecommerce", "open source", "php"],
   "license": "MIT",
   "require": {
-    "php": ">=5.4.0",
+    "php": ">=7.1.0",
     "laravel/framework": "5.4.*"
   },
   "autoload": {
